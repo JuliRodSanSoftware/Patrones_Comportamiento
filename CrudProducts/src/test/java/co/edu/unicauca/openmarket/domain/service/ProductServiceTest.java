@@ -3,7 +3,6 @@ package co.edu.unicauca.openmarket.domain.service;
 import co.edu.unicauca.openmarket.access.IProductRepository;
 import co.edu.unicauca.openmarket.domain.Product;
 import org.junit.jupiter.api.Assertions;
-import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mock;
 import org.mockito.Mockito;
